@@ -43,3 +43,6 @@ table {
           box-sizing: border-box; /* Opera/IE 8+ */
 }
 /* debut de mon CSS */
+body{
+  background-color: purple;
+}
